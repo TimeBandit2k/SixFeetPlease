@@ -1,17 +1,17 @@
-# social platform UI
-A CSS mockup of the platform interface.
+# Social platform UI
+Early version of the platform
 
 ## Preview
 
-## Installation
+## Before Setup
 
-Install the parcel and sass dependencies
+Install the parcel and sass dependencies (use the terminal)
 
 ```bash
 npm install
 ```
 
-## Installation
+## During test
 
 To run the project on a local development server
 
