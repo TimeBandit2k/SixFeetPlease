@@ -1,5 +1,5 @@
 # Social platform UI
-Early version of the platform
+Early UI version of the platform
 
 ## Preview
 
